@@ -1,4 +1,4 @@
-#samebirthday
+# samebirthday
 
 A Python 3.6+ script that, handed _your birthday_ (or any date, whatever) in `YYYY-MM-DD` format, grabs the "#Birth" list from the Wikipedia page for that specific day ([like this one](https://en.wikipedia.org/wiki/July_12#Births)) and prints out all of the Wikipedia-famous people who share your birthday.
 
